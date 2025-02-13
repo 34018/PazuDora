@@ -1,0 +1,5 @@
+{
+    "score": 0,
+    "playerName": "Player",
+    "timestamp": "2025-02-13T10:00:00"
+}
